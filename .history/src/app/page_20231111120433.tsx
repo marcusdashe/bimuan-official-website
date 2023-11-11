@@ -6,7 +6,9 @@ export default function Home() {
       <div>
         <Image src={"/logo.png"} width={500} height={100} alt="bimaun logo" />
       </div>
-
+      <h1 className="font-bold text-5xl mb-5 text-yellow-400">
+        Bimaun Technologies
+      </h1>
       <p>
         A dynamic tech startup, driven by a passion for innovation and a
         commitment to tackling intricate technological hurdles. As a
