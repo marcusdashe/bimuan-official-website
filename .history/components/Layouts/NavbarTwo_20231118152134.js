@@ -79,7 +79,7 @@ const Navbar = () => {
                       href="/"
                       className={`nav-link ${currentPath == "/" && "active"}`}
                     >
-                      Home <i className="fa-solid"></i>
+                      Home <i className="fa-solid fa-plus"></i>
                     </Link>
 
                     {/* <ul className="dropdown-menu">
@@ -464,9 +464,9 @@ const Navbar = () => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="info">(234) 704 4642 115</span>
+                  <span className="info">+088 130 629 8615</span>
                   <span className="or">OR</span>
-                  <span className="info">bimaun.tech@gmail.com</span>
+                  <span className="info">info@neemo.com</span>
                 </h2>
 
                 <ul className="social">

@@ -11,9 +11,9 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
               </div>
               <div className="content">
-                <h4>Phone</h4>
-                <p>(234) 704 4642 115</p>
-                <p>(234) 803 4477 604</p>
+                <h4>Phone / Fax</h4>
+                <p>(882) 569-7565</p>
+                <p>(882) 453-4565</p>
               </div>
             </div>
           </div>
@@ -25,8 +25,8 @@ const ContactInfo = () => {
               </div>
               <div className="content">
                 <h4>E-mail</h4>
-                <p>bimaun.tech@gmail.com</p>
-                <p>marcusdashe.developer@gmail.com</p>
+                <p>hello@neemo.com</p>
+                <p>support@neemo.com</p>
               </div>
             </div>
           </div>
@@ -39,8 +39,7 @@ const ContactInfo = () => {
               <div className="content">
                 <h4>Location</h4>
                 <p>
-                  Hossanah Business Plaza, No. B11 Jos Road, Jos South, Plateau
-                  State Nigeria
+                  123, Western Road, Melbourne <br /> Australia
                 </p>
               </div>
             </div>

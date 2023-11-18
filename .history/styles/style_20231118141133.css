@@ -126,7 +126,7 @@ h6 {
   padding: 13px 30px;
   color: #ffffff;
   text-transform: capitalize;
-  background-color: var(--primary-color);
+  background-color: #000;
   border: 1px solid var(--primary-color);
   transition: 0.5s;
   border-radius: 30px;
@@ -3438,11 +3438,11 @@ Pricing Section CSS
 }
 .pricing-tab .tabs li:hover {
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 .pricing-tab .tabs li.current {
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 
 .tab-content .tabs-item .single-pricing-box {
@@ -3495,7 +3495,7 @@ Pricing Section CSS
   padding-bottom: 0;
 }
 .tab-content .tabs-item .single-pricing-box.bg-f6f5fb .pricing-features i {
-  color: var(--primary-color);
+  color: #fa5eb1;
   margin-right: 8px;
 }
 .tab-content
@@ -3529,7 +3529,7 @@ Pricing Section CSS
   border-radius: 50px;
 }
 .tab-content .tabs-item .single-pricing-box.bg-ed0678 {
-  background-color: var(--primary-color);
+  background-color: #ed0678;
   padding: 50px 30px;
   position: relative;
 }
@@ -3595,7 +3595,7 @@ Pricing Section CSS
   .price-btn-one {
   display: inline-block;
   background: #ffffff;
-  color: var(--primary-color);
+  color: #f20791;
   padding: 10px 30px;
   font-size: 15px;
   font-weight: 400;
@@ -3652,7 +3652,7 @@ Pricing Section CSS
   padding-bottom: 0;
 }
 .tab-content .tabs-item .single-pricing-box.bg-edfbf8 .pricing-features i {
-  color: var(--primary-color);
+  color: #fa5eb1;
   margin-right: 8px;
 }
 .tab-content
@@ -3755,7 +3755,7 @@ Client Section CSS
   height: 104px;
   width: 105px;
   line-height: 130px;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   border-radius: 100px;
   left: 0;
   right: 0;
@@ -3817,12 +3817,12 @@ Client Section CSS
   opacity: 1;
 }
 .client-slides .swiper-pagination .swiper-pagination-bullet:hover {
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 .client-slides
   .swiper-pagination
   .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 
 /*================================================
@@ -3835,7 +3835,7 @@ Faq Section CSS
 
 .faq-area-content span {
   font-size: 18px;
-  color: var(--primary-color);
+  color: #f20791;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -3896,7 +3896,7 @@ Subscribe Area CSS
   position: relative;
   z-index: 1;
   overflow: hidden;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   background-image: url(/images/subscribe-bg.jpg);
   background-position: center center;
   background-size: cover;
@@ -4051,7 +4051,7 @@ Page Title Area CSS
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 .page-title-content ul li:last-child::before {
   display: none;
@@ -4130,7 +4130,7 @@ Services Details CSS
 .services-details-overview .services-details-desc .features-text h4 i {
   font-size: 15px;
   margin-right: 4px;
-  color: var(--primary-color);
+  color: #f20791;
 }
 
 /*================================================
@@ -4163,7 +4163,7 @@ Projects Details Area CSS
 .projects-details-desc .features-text h4 i {
   font-size: 16px;
   margin-right: 4px;
-  color: var(--primary-color);
+  color: #f20791;
 }
 .projects-details-desc .project-details-info {
   display: flex;
@@ -4212,7 +4212,7 @@ Projects Details Area CSS
   .social
   li
   a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .projects-details-desc .project-details-info .single-info-box .social li a i {
   font-size: 14px;
@@ -4239,7 +4239,7 @@ Pagination Area CSS
 .pagination-area .page-numbers.current,
 .pagination-area .page-numbers:hover,
 .pagination-area .page-numbers:focus {
-  background: var(--primary-color);
+  background: #f20791;
   color: #ffffff;
   box-shadow: 0 2px 10px 0 #d8dde6;
 }
@@ -4274,10 +4274,10 @@ Blog Details Area CSS
   color: #6a6c72;
 }
 .blog-details-desc .article-content .entry-meta ul li a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .blog-details-desc .article-content .entry-meta ul li i {
-  color: var(--primary-color);
+  color: #f20791;
   margin-right: 2px;
 }
 .blog-details-desc .article-content .entry-meta ul li::before {
@@ -4287,7 +4287,7 @@ Blog Details Area CSS
   right: -15px;
   width: 6px;
   height: 1px;
-  background: var(--primary-color);
+  background: #f20791;
 }
 .blog-details-desc .article-content .entry-meta ul li:last-child {
   margin-right: 0;
@@ -4342,7 +4342,7 @@ Blog Details Area CSS
   margin-right: 5px;
 }
 .blog-details-desc .article-footer .article-tags a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .blog-details-desc .article-footer .article-share {
   flex: 0 0 50%;
@@ -4365,7 +4365,7 @@ Blog Details Area CSS
 }
 .blog-details-desc .article-footer .article-share .social li a {
   display: block;
-  color: var(--primary-color);
+  color: #f20791;
   width: 30px;
   height: 30px;
   line-height: 30px;
@@ -4376,7 +4376,7 @@ Blog Details Area CSS
 }
 .blog-details-desc .article-footer .article-share .social li a:hover {
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   transform: translateY(-2px);
 }
 .blog-details-desc .post-navigation {
@@ -4427,7 +4427,7 @@ blockquote::after,
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -4519,8 +4519,8 @@ blockquote::after,
 }
 .comments-area .comment-body .reply a:hover {
   color: #ffffff;
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
+  background-color: #f20791;
+  border-color: #f20791;
 }
 .comments-area .comment-author {
   font-size: 17px;
@@ -4551,7 +4551,7 @@ blockquote::after,
   color: #6a6c72;
 }
 .comments-area .comment-metadata a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .comments-area .comment-respond {
   margin-top: 30px;
@@ -4624,7 +4624,7 @@ blockquote::after,
 .comments-area .comment-respond input[type="tel"]:focus,
 .comments-area .comment-respond input[type="number"]:focus,
 .comments-area .comment-respond textarea:focus {
-  border-color: var(--primary-color);
+  border-color: #f20791;
 }
 .comments-area .comment-respond .comment-form-author {
   float: left;
@@ -4667,7 +4667,7 @@ blockquote::after,
   width: 100%;
 }
 .comments-area .comment-respond .form-submit input {
-  background: var(--primary-color);
+  background: #f20791;
   border: none;
   color: #ffffff;
   padding: 10px 30px;
@@ -4710,7 +4710,7 @@ Sidebar Widget Area CSS
 .widget-area .widget .widget-title::before {
   content: "";
   position: absolute;
-  background: var(--primary-color);
+  background: #f20791;
   bottom: -1px;
   left: 0;
   width: 50px;
@@ -4742,7 +4742,7 @@ Sidebar Widget Area CSS
   transition: 0.5s;
 }
 .widget-area .widget_search form .search-field:focus {
-  border-color: var(--primary-color);
+  border-color: #f20791;
 }
 .widget-area .widget_search form button {
   position: absolute;
@@ -4754,7 +4754,7 @@ Sidebar Widget Area CSS
   z-index: 1;
   border: none;
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   transition: 0.5s;
 }
 .widget-area .widget_search form button:hover {
@@ -4835,7 +4835,7 @@ Sidebar Widget Area CSS
   margin-bottom: 0;
 }
 .widget-area .widget_categories ul li::before {
-  background: var(--primary-color);
+  background: #f20791;
   height: 7px;
   width: 7px;
   content: "";
@@ -4848,7 +4848,7 @@ Sidebar Widget Area CSS
   display: block;
 }
 .widget-area .widget_categories ul li a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .widget-area .widget_categories ul li .post-count {
   float: right;
@@ -4870,8 +4870,8 @@ Sidebar Widget Area CSS
 .widget-area .tagcloud a:hover,
 .widget-area .tagcloud a:focus {
   color: #ffffff;
-  background-color: var(--primary-color);
-  border-color: var(--primary-color);
+  background-color: #f20791;
+  border-color: #f20791;
 }
 .widget-area .widget_event_details ul {
   padding-left: 0;
@@ -4901,7 +4901,7 @@ Sidebar Widget Area CSS
   color: #888f96;
 }
 .widget-area .widget_event_details ul li a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 
 /*================================================
@@ -4994,8 +4994,8 @@ Contact Section CSS
 }
 .contact-box:hover .icon {
   color: #ffffff;
-  background: var(--primary-color);
-  border: 1px dashed var(--primary-color);
+  background: #f20791;
+  border: 1px dashed #f20791;
 }
 .contact-box .content h4 {
   font-size: 20px;
@@ -5046,9 +5046,9 @@ Contact Section CSS
   font-size: 15px;
 }
 .contact-text .social-links a:hover {
-  background: var(--primary-color);
+  background: #f20791;
   color: #ffffff;
-  border-color: var(--primary-color);
+  border-color: #f20791;
 }
 
 .contact-form {
@@ -5070,7 +5070,7 @@ Contact Section CSS
 .contact-form .form-group .form-control:focus {
   color: #666666;
   background-color: #ffffff;
-  border-color: var(--primary-color);
+  border-color: #f20791;
   outline: 0;
   box-shadow: none;
 }
@@ -5085,8 +5085,8 @@ Contact Section CSS
   padding: 10px 30px;
   color: #ffffff;
   text-transform: capitalize;
-  background-color: var(--primary-color);
-  border: 1px solid var(--primary-color);
+  background-color: #f20791;
+  border: 1px solid #f20791;
   transition: 0.5s;
   border-radius: 30px;
   font-size: 16px;
@@ -5094,7 +5094,7 @@ Contact Section CSS
 }
 .contact-form .send-btn .send-btn-one:hover {
   background-color: #ffffff;
-  color: var(--primary-color);
+  color: #f20791;
 }
 
 /*================================================
@@ -5123,8 +5123,8 @@ Contact Section CSS
 .error-content .default-btn-one {
   display: inline-block;
   padding: 12px 30px;
-  background: var(--primary-color);
-  border: 1px solid var(--primary-color);
+  background: #f20791;
+  border: 1px solid #f20791;
   color: #ffffff;
   font-size: 16px;
   font-weight: 400;
@@ -5133,7 +5133,7 @@ Contact Section CSS
 .error-content .default-btn-one:hover {
   text-decoration: none;
   background-color: #ffffff;
-  color: var(--primary-color);
+  color: #f20791;
 }
 
 /*================================================
@@ -5343,9 +5343,9 @@ Footer Section CSS
   font-size: 13px;
 }
 .footer-area .footer-social i:hover {
-  background-color: var(--primary-color);
+  background-color: #f20791;
   color: #ffffff;
-  border: 1px solid var(--primary-color);
+  border: 1px solid #f20791;
 }
 .footer-area p {
   color: #d1cfcf;
@@ -5377,7 +5377,7 @@ Footer Section CSS
   color: #e0dbdb;
 }
 .footer-item-area .footer-quick-links li a:hover {
-  color: var(--primary-color);
+  color: #f20791;
   transition: 0.5s;
 }
 .footer-item-area .footer-quick-links li:last-child {
@@ -5415,7 +5415,7 @@ Footer Section CSS
   transition: 0.5s;
 }
 .footer-info-contact span a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 
 /*================================================
@@ -5435,7 +5435,7 @@ Copyright Section CSS
   font-weight: 600;
 }
 .copyright-area p a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .copyright-area ul {
   padding-left: 0;
@@ -5455,7 +5455,7 @@ Copyright Section CSS
   color: #d9d3d3;
 }
 .copyright-area ul li a:hover {
-  color: var(--primary-color);
+  color: #f20791;
 }
 .copyright-area ul li::before {
   content: "";
@@ -5485,7 +5485,7 @@ Go Top CSS
   bottom: 15px;
   right: 15px;
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   z-index: 4;
   width: 40px;
   text-align: center;
@@ -5551,7 +5551,7 @@ Go Top CSS
   line-height: 45px;
   transition: 0.5s;
   background-color: #ffffff;
-  color: var(--primary-color);
+  color: #f20791;
   border-radius: 50%;
 }
 .home-slides .swiper-button-prev:after,
@@ -5630,7 +5630,7 @@ Go Top CSS
   width: 70px;
   line-height: 70px;
   background-color: #ffffff;
-  color: var(--primary-color);
+  color: #f20791;
   border-radius: 50px;
 }
 .single-features-item-two h3 {
@@ -5650,7 +5650,7 @@ Go Top CSS
   width: 100%;
   height: 0;
   border-radius: 10px;
-  background-color: var(--primary-color);
+  background-color: #f20791;
   z-index: -1;
   transition: 0.5s;
 }
@@ -5689,7 +5689,7 @@ Go Top CSS
 }
 .about-warp span {
   font-size: 14px;
-  color: var(--primary-color);
+  color: #f20791;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -5715,7 +5715,7 @@ Go Top CSS
 
 .choose-content-warp span {
   font-size: 14px;
-  color: var(--primary-color);
+  color: #f20791;
   font-weight: 500;
   text-transform: uppercase;
 }
@@ -5744,7 +5744,7 @@ Go Top CSS
   background-color: #ffffff;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.07);
   text-align: center;
-  color: var(--primary-color);
+  color: #f20791;
   border-radius: 50px;
   top: 4px;
   left: 0;
@@ -5760,7 +5760,7 @@ Go Top CSS
   font-weight: 400;
 }
 .choose-content-warp .choose-text:hover i {
-  background-color: var(--primary-color);
+  background-color: #f20791;
   color: #ffffff;
 }
 .choose-content-warp .choose-text h4 {
@@ -5840,7 +5840,7 @@ Go Top CSS
 }
 .team-item .image .social li a:hover {
   color: #ffffff;
-  background-color: var(--primary-color);
+  background-color: #f20791;
 }
 .team-item .image .social li:nth-child(1) {
   transition-delay: 0.2s;
@@ -5864,7 +5864,7 @@ Go Top CSS
 .team-item .content span {
   font-size: 15px;
   color: #6a6c72;
-  color: var(--primary-color);
+  color: #f20791;
 }
 .team-item .content.bg-ffffff {
   background-color: #ffffff;

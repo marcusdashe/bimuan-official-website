@@ -15,7 +15,7 @@ const AboutContent = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-area-content">
                 <span>About Us</span>
-                <h3>We are Team of Tech Startup</h3>
+                <h3>We are Dynamic Team of Tech Start up</h3>
                 <strong>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt labore dolore magna aliqua.

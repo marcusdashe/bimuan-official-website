@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
-import Link from "next/link";
+import Link from "next/link"; 
 
 const MainBanner = () => {
   const [toggler, setToggler] = useState(false);
@@ -8,9 +8,11 @@ const MainBanner = () => {
   return (
     <>
       <FsLightbox
-        toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=_ysd-zHamjk"]}
-      />
+				toggler={toggler}
+				sources={[
+					'https://www.youtube.com/watch?v=_ysd-zHamjk',
+				]}
+			/>
 
       <div className="main-banner">
         <div className="d-table">
@@ -19,12 +21,10 @@ const MainBanner = () => {
               <div className="row align-items-center">
                 <div className="col-lg-6 col-md-12">
                   <div className="main-banner-content">
-                    <h1>Fostering Digital Innovation</h1>
+                    <h1>Digital Agency with Excellence Service</h1>
                     <p>
-                      A dynamic tech startup driven by a passion for innovation
-                      and committed to addressing technological challenges.
-                      Specializing in Artificial Intelligence, Software
-                      Development, Cyber-Security and Blockchain Technologies.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      eiusmod tempor incididunt ut labore.
                     </p>
 
                     <div className="banner-btn">

@@ -14,7 +14,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/joe.jpg" alt="image" />
+                  <img src="/images/team/1.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -50,7 +50,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/purist.jpeg" alt="image" />
+                  <img src="/images/team/2.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -86,12 +86,12 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/dan.jpg" alt="image" />
+                  <img src="/images/team/3.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
                   <h3>Olasehinde Daniel</h3>
-                  <span>Frontend Web Developer</span>
+                  <span>Underwriter</span>
 
                   <ul className="team-social">
                     <li>

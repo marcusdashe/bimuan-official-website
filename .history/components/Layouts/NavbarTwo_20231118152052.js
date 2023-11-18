@@ -53,7 +53,7 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
-                <img src="/images/logo.png" alt="logo" width={250} />
+                <img src="/images/logo.png" alt="logo" width={200} />
               </Link>
 
               {/* Toggle navigation */}
@@ -79,10 +79,10 @@ const Navbar = () => {
                       href="/"
                       className={`nav-link ${currentPath == "/" && "active"}`}
                     >
-                      Home <i className="fa-solid"></i>
+                      Home <i className="fa-solid fa-plus"></i>
                     </Link>
 
-                    {/* <ul className="dropdown-menu">
+                    <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
                           href="/"
@@ -113,7 +113,7 @@ const Navbar = () => {
                           Home Demo - 3
                         </Link>
                       </li>
-                    </ul> */}
+                    </ul>
                   </li>
 
                   <li className="nav-item">
@@ -466,7 +466,7 @@ const Navbar = () => {
                 <h2>
                   <span className="info">(234) 704 4642 115</span>
                   <span className="or">OR</span>
-                  <span className="info">bimaun.tech@gmail.com</span>
+                  <span className="info">bimuan.tech@gmail.com</span>
                 </h2>
 
                 <ul className="social">

@@ -48,12 +48,12 @@ const Navbar = () => {
 
   return (
     <>
-      <div id="navbar" className="navbar-area navbar-two">
+      <div id="navbar" className="navbar-area">
         <div className="neemo-nav">
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand">
-                <img src="/images/logo.png" alt="logo" width={250} />
+                <img src="/images/logo.png" alt="logo" width={100} />
               </Link>
 
               {/* Toggle navigation */}

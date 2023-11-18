@@ -21,10 +21,11 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Fostering Digital Innovation</h1>
                     <p>
-                      A dynamic tech startup driven by a passion for innovation
-                      and committed to addressing technological challenges.
-                      Specializing in Artificial Intelligence, Software
-                      Development, Cyber-Security and Blockchain Technologies.
+                      A dynamic tech startup driven by passion a passion for
+                      innovation and committed to addressing technological
+                      challenges. Specializing in Artificial Intelligence,
+                      Software Development, Cyber-Security and Blockchain
+                      Technologies.
                     </p>
 
                     <div className="banner-btn">

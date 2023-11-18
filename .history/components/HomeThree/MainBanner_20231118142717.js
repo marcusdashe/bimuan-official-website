@@ -24,10 +24,8 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Fostering Digital Innovation</h1>
                     <p>
-                      A dynamic tech startup driven by a passion for innovation
-                      and committed to addressing technological challenges.
-                      Specializing in Artificial Intelligence, Software
-                      Development, Cyber-Security and Blockchain Technologies.
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      eiusmod tempor incididunt ut labore.
                     </p>
                     <div className="banner-btn">
                       <Link href="/about-us" className="default-btn-one">

@@ -69,19 +69,29 @@ const Footer = () => {
 
                 <ul className="footer-quick-links">
                   <li>
-                    <Link href="/about-us">About Us</Link>
+                    <Link href="/about-us">
+                      About Us
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/projects">Project</Link>
+                    <Link href="/projects">
+                      Project
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/services">Services</Link>
+                    <Link href="/services">
+                      Services
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/team">Team</Link>
+                    <Link href="/team">
+                      Team
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/contact">Contact</Link>
+                    <Link href="/contact">
+                      Contact
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -95,19 +105,29 @@ const Footer = () => {
 
                 <ul className="footer-quick-links">
                   <li>
-                    <Link href="/single-service">SEO Marketing</Link>
+                    <Link href="/single-service">
+                      SEO Marketing
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/single-service">SEO Services</Link>
+                    <Link href="/single-service">
+                      SEO Services
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/single-service">Services</Link>
+                    <Link href="/single-service">
+                      Services
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/single-service">Pay-Per-Click</Link>
+                    <Link href="/single-service">
+                      Pay-Per-Click
+                    </Link>
                   </li>
                   <li>
-                    <Link href="/single-service">Social Media</Link>
+                    <Link href="/single-service">
+                      Social Media
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -122,22 +142,19 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>(234) 704 4642 115</span>
+                  <span>(882) 569-7565</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-envelope"></i>
                   <h3>Email</h3>
-                  <span>bimaun.tech@gmail.com</span>
+                  <span>hello@neemo.com</span>
                 </div>
 
                 <div className="footer-info-contact">
                   <i className="flaticon-placeholder-filled-point"></i>
                   <h3>Address</h3>
-                  <span>
-                    Hossanah Business Plaza, No. B11 Jos Road, Jos South,
-                    Plateau State Nigeria
-                  </span>
+                  <span>123, Western Road, Melbourne Australia</span>
                 </div>
               </div>
             </div>
@@ -169,16 +186,25 @@ const Footer = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <p>© {currentYear} Bimaun Technologies All Rights Reserved</p>
+              <p>
+                © {currentYear} Neemo. All Rights Reserved by{" "}
+                <a href="https://envytheme.com/" target="_blank">
+                  EnvyTheme
+                </a>
+              </p>
             </div>
 
             <div className="col-lg-6">
               <ul>
                 <li>
-                  <Link href="/terms-conditions">Terms & Conditions</Link>
+                  <Link href="/terms-conditions">
+                    Terms & Conditions
+                  </Link>
                 </li>
                 <li>
-                  <Link href="/privacy-policy">Privacy Policy</Link>
+                  <Link href="/privacy-policy">
+                    Privacy Policy
+                  </Link>
                 </li>
               </ul>
             </div>

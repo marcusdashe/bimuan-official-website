@@ -169,7 +169,7 @@ const Footer = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              <p>© {currentYear} Bimaun Technologies All Rights Reserved</p>
+              <p>© {currentYear} bimauntech. All Rights Reserved</p>
             </div>
 
             <div className="col-lg-6">
