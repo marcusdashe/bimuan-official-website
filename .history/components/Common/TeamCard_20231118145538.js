@@ -55,7 +55,7 @@ const TeamCard = () => {
 
                 <div className="team-content">
                   <h3>Marcus Dashe</h3>
-                  <span>CTO & Co-Founder</span>
+                  <span>CTO & Co-Founder, Bimaun Tech</span>
 
                   <ul className="team-social">
                     <li>

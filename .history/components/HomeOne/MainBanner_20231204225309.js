@@ -34,9 +34,9 @@ const MainBanner = () => {
 
                       <div
                         onClick={() => setToggler(!toggler)}
-                        className="popup-youtube"
+                        className=" popup-youtube"
                       >
-                        <Link href="/contact">Contact Us</Link>
+                        Contact Us <i className="flaticon-play-button"></i>
                       </div>
                     </div>
                   </div>

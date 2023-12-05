@@ -49,8 +49,8 @@ const FeaturesContent = () => {
                     </div>
                     <h3>Artificial Intelligence</h3>
                     <p>
-                      Data Science, EDA, Machine and Deep Learning, Chatbot, AI
-                      powered Web Services
+                      Data Science and Analysis, Machine and Deep Learning,
+                      Chatbot, AI powered Web Services
                     </p>
                   </div>
                 </div>

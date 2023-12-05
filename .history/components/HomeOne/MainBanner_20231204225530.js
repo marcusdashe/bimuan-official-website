@@ -36,7 +36,7 @@ const MainBanner = () => {
                         onClick={() => setToggler(!toggler)}
                         className="popup-youtube"
                       >
-                        <Link href="/contact">Contact Us</Link>
+                        Contact Us
                       </div>
                     </div>
                   </div>

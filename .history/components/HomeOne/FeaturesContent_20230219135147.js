@@ -9,8 +9,8 @@ const FeaturesContent = () => {
           <div className="row align-items-center">
             <div className="col-lg-5 col-md-12">
               <div className="features-content-area">
-                <span>Our Unique Value Proposition</span>
-                <h3>Let us transform your ideas to product</h3>
+                <span>Care Features</span>
+                <h3>Create Awesome Service With Our Tools</h3>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiod tempor incididunt ut labore et dolore magna aliqua.
@@ -34,10 +34,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-seo"></i>
                     </div>
-                    <h3>Web Application Development</h3>
+                    <h3>Seo Consultancy</h3>
                     <p>
-                      UI/UX design, Frontend Web App, Backend API and Services,
-                      Hosting and Deployment
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
                     </p>
                   </div>
                 </div>
@@ -47,10 +47,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analytics"></i>
                     </div>
-                    <h3>Artificial Intelligence</h3>
+                    <h3>Competitor Analysis</h3>
                     <p>
-                      Data Science, EDA, Machine and Deep Learning, Chatbot, AI
-                      powered Web Services
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
                     </p>
                   </div>
                 </div>
@@ -60,8 +60,11 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-laptop"></i>
                     </div>
-                    <h3>Mobile Application Development</h3>
-                    <p>Android and iOS Application Development</p>
+                    <h3>Social Media Marketing</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
+                    </p>
                   </div>
                 </div>
 
@@ -70,8 +73,11 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analysis-1"></i>
                     </div>
-                    <h3>Blockchain Technologies</h3>
-                    <p>Decentralized Application, Smart Contract Development</p>
+                    <h3>Competitor Analysis</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
+                    </p>
                   </div>
                 </div>
               </div>

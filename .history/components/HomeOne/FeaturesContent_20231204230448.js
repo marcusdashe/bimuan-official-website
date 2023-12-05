@@ -49,8 +49,8 @@ const FeaturesContent = () => {
                     </div>
                     <h3>Artificial Intelligence</h3>
                     <p>
-                      Data Science, EDA, Machine and Deep Learning, Chatbot, AI
-                      powered Web Services
+                      Data Science and Analysis, Machine and Deep Learning,
+                      Chatbot, AI powered Web Services
                     </p>
                   </div>
                 </div>
@@ -60,8 +60,11 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-laptop"></i>
                     </div>
-                    <h3>Mobile Application Development</h3>
-                    <p>Android and iOS Application Development</p>
+                    <h3>Social Media Marketing</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
+                    </p>
                   </div>
                 </div>
 
@@ -70,8 +73,11 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analysis-1"></i>
                     </div>
-                    <h3>Blockchain Technologies</h3>
-                    <p>Decentralized Application, Smart Contract Development</p>
+                    <h3>Competitor Analysis</h3>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+                      sed do eiusmod tempor
+                    </p>
                   </div>
                 </div>
               </div>

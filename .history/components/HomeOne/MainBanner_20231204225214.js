@@ -29,14 +29,14 @@ const MainBanner = () => {
 
                     <div className="banner-btn">
                       <Link href="/about-us" className="default-btn-one">
-                        About Us
+                        More About Us
                       </Link>
 
                       <div
                         onClick={() => setToggler(!toggler)}
-                        className="popup-youtube"
+                        className="video-btn popup-youtube"
                       >
-                        <Link href="/contact">Contact Us</Link>
+                        Contact Us <i className="flaticon-play-button"></i>
                       </div>
                     </div>
                   </div>
