@@ -62,8 +62,9 @@ const FeaturesContent = () => {
                     </div>
                     <h3>Mobile Application Development</h3>
                     <p>
-                      With our expertise in Android and iOS Application
-                      Development. We bring your ideas to life
+                      {" "}
+                      with our expertise in Android and iOS Application
+                      Development. We bring your ideas to life, t
                     </p>
                   </div>
                 </div>
@@ -74,11 +75,7 @@ const FeaturesContent = () => {
                       <i className="flaticon-analysis-1"></i>
                     </div>
                     <h3>Blockchain Technologies</h3>
-                    <p>
-                      Unlock the potential of decentralized technologies with
-                      our proficiency in Decentralized Application (DApp) and
-                      Smart Contract Development
-                    </p>
+                    <p>Decentralized Application, Smart Contract Development</p>
                   </div>
                 </div>
               </div>

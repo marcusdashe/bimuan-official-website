@@ -74,11 +74,7 @@ const FeaturesContent = () => {
                       <i className="flaticon-analysis-1"></i>
                     </div>
                     <h3>Blockchain Technologies</h3>
-                    <p>
-                      Unlock the potential of decentralized technologies with
-                      our proficiency in Decentralized Application (DApp) and
-                      Smart Contract Development
-                    </p>
+                    <p>Decentralized Application, Smart Contract Development</p>
                   </div>
                 </div>
               </div>

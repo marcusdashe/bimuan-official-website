@@ -31,12 +31,12 @@ const FeaturesContent = () => {
                 <div className="col-lg-6 col-md-6 col-sm-6">
                   <div className="single-features-item bg-f1eff8">
                     <div className="icon">
-                      <i className="flaticon-seo"></i>
+                      <i className="flaticon-web"></i>
                     </div>
-                    <h3>Web Development</h3>
+                    <h3>Web Application Development</h3>
                     <p>
-                      UI/UX Design, Frontend Web App Dev, Backend API and Web
-                      Service, Hosting and Deployment
+                      UI/UX design, Frontend Web App, Backend API and Services,
+                      Hosting and Deployment
                     </p>
                   </div>
                 </div>
@@ -46,11 +46,10 @@ const FeaturesContent = () => {
                     <div className="icon">
                       <i className="flaticon-analytics"></i>
                     </div>
-                    <h3>AI and Data Science</h3>
+                    <h3>Artificial Intelligence</h3>
                     <p>
-                      From Exploratory Data Analysis (EDA) to Machine and Deep
-                      Learning Models, along with Chatbot and AI-powered Web
-                      Services
+                      Data Science, EDA, Machine and Deep Learning, Chatbot, AI
+                      powered Web Services
                     </p>
                   </div>
                 </div>
@@ -61,10 +60,7 @@ const FeaturesContent = () => {
                       <i className="flaticon-laptop"></i>
                     </div>
                     <h3>Mobile Application Development</h3>
-                    <p>
-                      With our expertise in Android and iOS Application
-                      Development. We bring your ideas to life
-                    </p>
+                    <p>Android and iOS Application Development</p>
                   </div>
                 </div>
 
@@ -74,11 +70,7 @@ const FeaturesContent = () => {
                       <i className="flaticon-analysis-1"></i>
                     </div>
                     <h3>Blockchain Technologies</h3>
-                    <p>
-                      Unlock the potential of decentralized technologies with
-                      our proficiency in Decentralized Application (DApp) and
-                      Smart Contract Development
-                    </p>
+                    <p>Decentralized Application, Smart Contract Development</p>
                   </div>
                 </div>
               </div>

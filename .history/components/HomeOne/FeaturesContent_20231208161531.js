@@ -77,7 +77,7 @@ const FeaturesContent = () => {
                     <p>
                       Unlock the potential of decentralized technologies with
                       our proficiency in Decentralized Application (DApp) and
-                      Smart Contract Development
+                      Smart Contract Development.{" "}
                     </p>
                   </div>
                 </div>

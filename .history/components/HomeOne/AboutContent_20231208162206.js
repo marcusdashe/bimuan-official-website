@@ -3,7 +3,7 @@ import React from "react";
 const AboutContent = () => {
   return (
     <>
-      <section className="about-section pt-100">
+      <section className="about-section">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
@@ -15,21 +15,17 @@ const AboutContent = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-area-content">
                 <span>About Us</span>
-                <h3>
-                  We are innovative and dynamic startup driven by passion to
-                  shape the digital world for good
-                </h3>
+                <h3>Innovation in Technology</h3>
                 <strong>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt labore dolore magna aliqua.
+                  We don't just navigate the tech landscape; we shape it.
                 </strong>
                 <p>
-                  At Bimaun Technologies, we are more than just a tech startup.
-                  We are pioneers shaping the future. Driven by a passion for
-                  innovation, we are on a journey to rewrite the technological
-                  landscape. Our vibrant team thrives on the edge of progress,
-                  relentlessly pursuing solutions that break barriers and set
-                  new benchmarks.
+                  At Bimaun Technologies, we are not just a tech startup; we are
+                  architects of the future. Fueled by a fervor for innovation,
+                  we embark on a mission to redefine the technological
+                  landscape. Our dynamic team thrives on the pulse of progress,
+                  constantly seeking solutions that push boundaries and set new
+                  standards.
                 </p>
               </div>
 
